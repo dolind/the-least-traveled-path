@@ -1,0 +1,12 @@
+geopandas
+geopy
+matplotlib
+networkx
+numpy
+osmnx
+pandas
+plotly
+pyproj
+scipy
+scikit-learn
+utm
